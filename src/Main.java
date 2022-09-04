@@ -73,7 +73,7 @@ public class Main {
                 System.out.println("Месяц "+month+" сейчас осень");
                 break;
             default:
-                System.out.println("Месяц "+month+" н существует!");
+                System.out.println("Месяц "+month+" не существует!");
         }
     }
 }
